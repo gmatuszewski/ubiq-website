@@ -3,6 +3,3 @@ elm-stuff/
 dist/
 .cache/
 gen/
-
-src/.DS_Store
-.DS_Store
