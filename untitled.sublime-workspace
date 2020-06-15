@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gregorymatuszewski/Documents/GitHub/ubiq-website/style.css",
+		"/Users/gregorymatuszewski/Documents/GitHub/ubiq-website/src/Main.elm",
+		"/Users/gregorymatuszewski/Documents/GitHub/ubiq-website/src/Index.elm",
+		"/Users/gregorymatuszewski/Documents/GitHub/ubiq-website/index.js",
+		"/Users/gregorymatuszewski/Documents/GitHub/ubiq-website/src/Layout.elm",
+		"/Users/gregorymatuszewski/Documents/GitHub/test/test",
+		"/Users/gregorymatuszewski/Sync/temp/elm-pages-test/src/Page/Article.elm",
+		"/Users/gregorymatuszewski/Documents/Maintenant",
+		"/Users/gregorymatuszewski/Documents/untitled3",
+		"/Users/gregorymatuszewski/Documents/untitled2",
+		"/Users/gregorymatuszewski/Documents/trapeze",
+		"/Users/gregorymatuszewski/Documents/untitled",
+		"/Users/gregorymatuszewski/Documents/idée :",
+		"/var/folders/v9/bww733nd09l1mwr6vy8v9_n00000gn/T/kite_tutorial.py",
+		"/Users/gregorymatuszewski/Downloads/20190110-ThBonnot.txt",
+		"/Users/gregorymatuszewski/Desktop/#9 -> déployé sur la page Keolis test",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/src/Homepage.elm",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/elm.json",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/elm.js",
+		"/Users/gregorymatuszewski/Desktop/OSAKA_notes prises en réunion.txt",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/homepage.html",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/Homepage.elm",
+		"/Users/gregorymatuszewski/Documents/temp/elm-test/index.html",
+		"/Users/gregorymatuszewski/Desktop/notes prises en réunion.txt",
+		"/Users/gregorymatuszewski/Desktop/notes agir",
+		"/Users/gregorymatuszewski/Desktop/visite des gros réseaux -> voir avec Pierre",
+		"/Users/gregorymatuszewski/Desktop/Keolis Atlantique",
+		"/Users/gregorymatuszewski/Desktop/\"benoit.chauvin@gart.org\" <benoit.chauvin@gart.or",
+		"/Users/gregorymatuszewski/Desktop/Métron --notes",
+		"/Users/gregorymatuszewski/Downloads/cv_7/moderncvcolorblue.sty",
+		"/Users/gregorymatuszewski/Downloads/cv_7/cv_7.tex",
+		"/Users/gregorymatuszewski/Downloads/material/page.html",
+		"/Users/gregorymatuszewski/Downloads/material/includes.html",
+		"/Users/gregorymatuszewski/Downloads/material/page.header.html",
+		"/Users/gregorymatuszewski/Downloads/material/linklist.html",
+		"/Users/gregorymatuszewski/Downloads/index.html",
+		"/Users/gregorymatuszewski/Downloads/bootstrap-4.3.1-dist/css/bootstrap.min.css",
+		"/Users/gregorymatuszewski/Downloads/dist/styles.min.css",
+		"/Users/gregorymatuszewski/Downloads/pure-release-1.0.0/base.css",
+		"/Applications/MAMP/htdocs/data/config.json.php",
+		"/Users/gregorymatuszewski/Downloads/material/dist/styles.min.css",
+		"/Applications/MAMP/htdocs/doc/html/css/theme_extra.css",
+		"/Applications/MAMP/htdocs/tpl/material/includes.html",
+		"/Applications/MAMP/htdocs/tpl/material/page.html",
+		"/Applications/MAMP/htdocs/tpl/material/page.header.html",
+		"/Applications/MAMP/htdocs/data/user.css",
+		"/Users/gregorymatuszewski/Downloads/bookmarks_all_20190619_142553.html",
+		"/Applications/MAMP/htdocs/data/history.php",
+		"/Users/gregorymatuszewski/Downloads/Shaarli-Material-master 2/CHANGELOG.md",
+		"/Applications/MAMP/htdocs/doc/html/css/theme.css",
+		"/Applications/MAMP/htdocs/tpl/new_Theme/page.header.html",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/lectures/LivresLus.md",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/lectures/extraits/2019-Soljenitsyne_Pavillon.md",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/lectures/_index.md",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/menu/index.md",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/docs/menu/index.md",
+		"/Users/gregorymatuszewski/Sync/hugo/self/content/_index.md",
+		"/Users/gregorymatuszewski/Documents/Marc Lemercier",
+		"/Users/gregorymatuszewski/Desktop/notes réunions point avancement",
+		"/Users/gregorymatuszewski/Documents/discussion",
+		"/Users/gregorymatuszewski/Desktop/__Christophe et Jérémy",
+		"/Users/gregorymatuszewski/Desktop/Spiess Lucas",
+		"/Users/gregorymatuszewski/Downloads/velizy_20180119/velizy_20180119.csv",
+		"/Users/gregorymatuszewski/Sync/org/work/2018-commercial.org",
+		"/Users/gregorymatuszewski/Sync/org/notepad/2002-9-30 - Entries.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-11-26.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-01.md",
+		"/Users/gregorymatuszewski/Downloads/known-0.9.9/README.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-25.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-11.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-20.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-20 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-11-15.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-08.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-04 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-01.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-11-04.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-31.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-31.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-16 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-30.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-15.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-29.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-19.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-24.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-22.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-18 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-18.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-17 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-17.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-16.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-16.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-14 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-14.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-12.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-02.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-03.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-04.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-05.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-06.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-07.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-08.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-09.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-10.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-07 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-09-21.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-09-17.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-09-27.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-03.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-10-01 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-10-01.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-21.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-20.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-19.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-26.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-30.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-29.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-28.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-27.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-18.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-22.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-24.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-09-07 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/ubiq/content/posts/2018/2018-09-21 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-18 copie.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-08-29.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-07.md",
+		"/Users/gregorymatuszewski/Sync/hugo/fotolog/content/posts/2018/2018-09-08.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

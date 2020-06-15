@@ -39,12 +39,12 @@ manifest =
     , categories = [ Pages.Manifest.Category.education ]
     , displayMode = Manifest.Standalone
     , orientation = Manifest.Portrait
-    , description = "elm-pages-starter - A statically typed site generator."
+    , description = "ubiq & urbi - description"
     , iarcRatingId = Nothing
-    , name = "elm-pages-starter"
+    , name = "ubiq & urbi"
     , themeColor = Just Color.white
     , startUrl = pages.index
-    , shortName = Just "elm-pages-starter"
+    , shortName = Just "ubiq & urbi"
     , sourceIcon = images.iconPng
     }
 
